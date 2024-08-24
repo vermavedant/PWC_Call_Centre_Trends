@@ -36,6 +36,7 @@ Before creating visualizations, we need to transform the data in the Power Query
 
 ### Visualizations
 Now coming on to Visualizations, we have used:
+
 Clustered Column Chart, Scatter Chart, Pie Chart, Stacked Bar Chart & Cards
 
 #### 1. Clustered Column Chart
