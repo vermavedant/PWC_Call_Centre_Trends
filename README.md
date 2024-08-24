@@ -23,17 +23,16 @@ The data is given by Pwc Switzerland.
 - The dataset is obtained from the Pwc Switzerland.
 
 ### 2. Explore the Data in Excel, in this stage, the data is being explored, and after closely examining the dataset, the following points were observed:
-- **Data Exploration:** Initial exploration of the dataset to understand its structure and identify necessary columns for analysis. 
-    After exploring the data, it is found that is already cleaned but need to change some column name, change data type and need to add calculated column. This small changes will be perform in Power BI.
+- **Data Exploration:** Initial exploration of the dataset to understand its structure and identify necessary columns for analysis.
+- After exploring the data, it is found that the data is already cleaned but need to change some column name, change data type and need to add calculated column. This small changes will be perform in Power BI.
 
 ### 3. Visualize the data in Power BI
 
 Before creating visualizations, we need to transform the data in the Power Query Editor as well as need to add some calculated columns:
 
 1. **Transform Data**:
-   - In this stage, we have changed the name of some columns and corrected their data type.
-   - Calculated columns are created, In_Seconds and Hours columns are added br creating DAX measures.
-
+- In this stage, we have changed the columns name and corrected their data type.
+- Calculated columns are created, In_Seconds and Hours columns are added by creating DAX measures.
 
 ### Visualizations
 Now coming on to Visualizations, we have used:
@@ -41,7 +40,7 @@ Clustered Column Chart, Scatter Chart, Pie Chart, Stacked Bar Chart & Cards
 
 #### 1. Clustered Column Chart
 
-This visualization shows total call answered and abandoned
+This visualization shows total call answered and abandoned.
 
 #### 2. Scatter Chart
 
@@ -51,14 +50,13 @@ This chart shows a relation between agents total call answered vs their Performa
 
 This chart shows the total proportion of calls by their topic.
 
-
 #### 4. Stacked Bar Chart
 
 This chart represents the total no of calls by their time.
 
 #### 5. Cards
 
-The cards are used to display Overall customer catisfaction, Avg speed of answer, Agents's performance quadrant, Count of calls answered/abandoned and isuues resolved/not resolved.These cards provide quick insights.
+The cards are used to display Overall customer satisfaction, Avg speed of answer(S), Agents's performance quadrant(S), Count of calls answered/abandoned and issues resolved/not resolved. These cards are used to provide quick insights.
 
 ![Screenshot (235)](https://github.com/user-attachments/assets/d1a287cc-2304-4efc-91cd-f8ceb551f46b)
 
