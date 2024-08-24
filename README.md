@@ -58,7 +58,7 @@ This chart represents the total no of calls by their time.
 
 The cards are used to display Overall customer satisfaction, Avg speed of answer(S), Agents's performance quadrant(S), Count of calls answered/abandoned and issues resolved/not resolved. These cards are used to provide quick insights.
 
-![Screenshot (235)](https://github.com/user-attachments/assets/d1a287cc-2304-4efc-91cd-f8ceb551f46b)
+https://github.com/user-attachments/assets/5fc3ed44-8170-486f-9b05-ae9d22261194
 
 ## DAX Measures
 
