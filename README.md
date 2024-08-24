@@ -4,19 +4,19 @@
 The call center manager wants insights and transparency into the data available at the call center.
 
 ### Requested KPIs
--Overall customer satisfaction
--Overall calls answered/abandoned
--Calls by time
--Average speed of answer
--Agent’s performance quadrant -> average handle time (talk duration) vs calls answered.
+- Overall customer satisfaction
+- Overall calls answered/abandoned
+- Calls by time
+- Average speed of answer
+- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 
 ## Data Source
 The data is given by Pwc Switzerland.
 
 ## Tools & Technologies
-Excel: For initial data exploration and preparation.
-Power BI: To transform data, create interactive dashboards and visualizations.
+**Excel:** For initial data exploration and preparation.
+**Power BI:** To transform data, create interactive dashboards and visualizations.
 
 ## Process Overview
 ### 1. Get the Data
@@ -152,6 +152,5 @@ Based on the data, here are some insights and findings that can be derived using
 -1007 calls are related “Payment Related” topic.
 -976 calls are related “Admin Support” topic.
 -976 calls are related “Contact Related” topic.
-
 
 #### Jim has answered maximum no of calls i.e. **536** calls with an avg speed of **66.34 seconds**.
