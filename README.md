@@ -15,8 +15,8 @@ The call center manager wants insights and transparency into the data available 
 The data is given by Pwc Switzerland.
 
 ## Tools & Technologies
-**Excel:** For initial data exploration and preparation.
-**Power BI:** To transform data, create interactive dashboards and visualizations.
+- **Excel:** For initial data exploration and preparation.
+- **Power BI:** To transform data, create interactive dashboards and visualizations
 
 ## Process Overview
 ### 1. Get the Data
@@ -147,10 +147,10 @@ Based on the data, here are some insights and findings that can be derived using
 #### Counts of call abandoned are **946**.
 
 #### Count of calls by topic.
--1022 calls are related “Streaming” topic.
--1019 calls are related “Technical Support” topic.
--1007 calls are related “Payment Related” topic.
--976 calls are related “Admin Support” topic.
--976 calls are related “Contact Related” topic.
+- 1022 calls are related “Streaming” topic.
+- 1019 calls are related “Technical Support” topic.
+- 1007 calls are related “Payment Related” topic.
+- 976 calls are related “Admin Support” topic.
+- 976 calls are related “Contact Related” topic.
 
 #### Jim has answered maximum no of calls i.e. **536** calls with an avg speed of **66.34 seconds**.
