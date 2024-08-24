@@ -121,7 +121,7 @@ Issue Resoved = COUNTROWS(FILTER('Call_Center', Call_Center[Resolved] = "Y"))
 
 ```
 
-### 8. In_Seconds
+### 9. In_Seconds
 ```sql
 In_Seconds = 
 HOUR([Talk_Duration]) * 3600 + 
@@ -135,13 +135,9 @@ SECOND([Talk_Duration])
 Based on the data, here are some insights and findings that can be derived using the visualizations from Power BI:
 
 #### Average speed is **67.52 Seconds**.
-
 #### **3646** issues are resolved and **1354** issues are not resolved.
-
 #### Overall Customer Satisfaction **3.40**.
-
 #### Counts of call answered are **4054**.
-
 #### Counts of call abandoned are **946**.
 
 #### Count of calls by topic.
