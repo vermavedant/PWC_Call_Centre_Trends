@@ -134,13 +134,11 @@ SECOND([Talk_Duration])
 
 Based on the data, here are some insights and findings that can be derived using the visualizations from Power BI:
 
-#### Average speed is **67.52 Seconds**.
-#### **3646** issues are resolved and **1354** issues are not resolved.
-#### Overall Customer Satisfaction **3.40**.
-#### Counts of call answered are **4054**.
-#### Counts of call abandoned are **946**.
-
-#### Count of calls by topic.
+#### Avg Speed of answer is **67.52 Seconds**
+#### **3646** issues are resolved & **1354** issues are not resolved
+#### Overall Customer Satisfaction is **3.40**
+#### Count os Calls answered are **4045** and abandoned are **946**
+#### Count of Calls by topic are:
 - 1022 calls are related “Streaming” topic.
 - 1019 calls are related “Technical Support” topic.
 - 1007 calls are related “Payment Related” topic.
