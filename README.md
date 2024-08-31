@@ -133,7 +133,7 @@ SECOND([Talk_Duration])
 
 ### 5. Conclusions from the Analysis
 
-Based on the data, here are some insights and findings that can be derived using the visualizations from Power BI:
+Based on the data, here are some insights and findings that is derived using the visualizations from Power BI:
 
 Avg Speed of answer is **67.52 Seconds**
 
